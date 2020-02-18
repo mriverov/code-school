@@ -1,4 +1,4 @@
-numbers = [3,8,1,5,4,-1] #[1,3,5,8]
+numbers = [3,8,1,5,4,-1, 89] #[1,3,5,8]
 
 currentMin = numbers[0] # currentMin=3
 ordered = []  #ordered= []
